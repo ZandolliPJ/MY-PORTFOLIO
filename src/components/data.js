@@ -1,37 +1,37 @@
 export const projectData = [
-	{
-		id: 1,
-		title: 'django_blog',
-		description:
-			'A simple Todo List App built with JavaScript. All datas are stored in localstorage. It helps users check list out their plans and tick as they do them.',
-		gitHubLink: 'https://github.com/ZandolliPJ/django_blog',
-	},
-	{
-		id: 2,
-		title: 'DocShop',
-		description:
-			'A simple Book Library App built with JavaScript. It helps readers have a good list of books they are eiter currently reading or have finished reading.',
-		gitHubLink: 'https://github.com/ZandolliPJ/DocShop',
-	},
-	{
-		id: 3,
-		title: 'SolutionProjetMusic API C#',
-		description:
-			'Helps you generates quotes from about 1600 quotes written by different authors . Quotes are automatically copied to your clipboards.',
-		gitHubLink: 'https://github.com/ZandolliPJ/SolutionProjetMusic',
-	},
-	{
-		id: 4,
-		title: 'github-video',
-		description:
-			'Helps you generates random passwords, you can select what you want your password to entail and also you can copy generated password to clipboard.',
-		gitHubLink: 'https://github.com/ZandolliPJ/github-video',
-	},
-	{
-		id: 5,
-		title: 'portfolio',
-		description:
-			'Simple Twitter UI clone built with TailwindCSS and Vue Js. This covers only the home page of Twitter UI. This is cool to get started with TailwindCSS as it helps understand basic concepts.',
-		gitHubLink: 'https://github.com/ZandolliPJ/portfolio',
-	},
+  {
+    id: 1,
+    title: "django_blog",
+    description:
+      "This presentation clearly outlines the purpose, features, and technical details of the project, emphasizing how Django will be used to manage the blog and menu of the pizza restaurant.",
+    gitHubLink: "https://github.com/ZandolliPJ/django_blog",
+  },
+  {
+    id: 2,
+    title: "DocShop",
+    description:
+      "This enhanced blog project using Python and Django aims to provide a modern, dynamic, and highly interactive platform.",
+    gitHubLink: "https://github.com/ZandolliPJ/DocShop",
+  },
+  {
+    id: 3,
+    title: "SolutionProjetMusic API C#",
+    description:
+      "Managing an API with .NET that interacts with multiple databases, such as SQL Server and MongoDB, offers exceptional flexibility and scalability.",
+    gitHubLink: "https://github.com/ZandolliPJ/SolutionProjetMusic",
+  },
+  {
+    id: 4,
+    title: "cours-react1",
+    description:
+      "  Creating a ReactJS project allows you to develop modern, reactive, and scalable web applications. By using functional components, hooks like useState and useEffect, and libraries like React Router, you can build a robust and well-structured application.",
+    gitHubLink: "https://github.com/ZandolliPJ/cours-react1",
+  },
+  {
+    id: 5,
+    title: "ReactJS-NetCoreWebAPI-MSSQL",
+    description:
+      "This full-stack React project, combined with an ASP.NET Core backend and SQL Server database, offers a robust and scalable solution for building modern web applications.",
+    gitHubLink: "https://github.com/ZandolliPJ/ReactJS-NetCoreWebAPI-MSSQL",
+  },
 ];
